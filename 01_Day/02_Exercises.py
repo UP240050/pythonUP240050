@@ -1,3 +1,4 @@
+#1. tipos de datos
 print(type(9.8))
 print(type(3.14))
 print(type(4-4j))
